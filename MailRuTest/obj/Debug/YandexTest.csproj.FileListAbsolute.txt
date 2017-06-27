@@ -1,0 +1,11 @@
+D:\CSharpProjects\MailRuTest\MailRuTest\bin\Debug\MailRuTest.dll
+D:\CSharpProjects\MailRuTest\MailRuTest\bin\Debug\MailRuTest.pdb
+D:\CSharpProjects\MailRuTest\MailRuTest\bin\Debug\nunit.framework.dll
+D:\CSharpProjects\MailRuTest\MailRuTest\bin\Debug\WebDriver.dll
+D:\CSharpProjects\MailRuTest\MailRuTest\bin\Debug\WebDriver.Support.dll
+D:\CSharpProjects\MailRuTest\MailRuTest\bin\Debug\nunit.framework.xml
+D:\CSharpProjects\MailRuTest\MailRuTest\bin\Debug\WebDriver.xml
+D:\CSharpProjects\MailRuTest\MailRuTest\bin\Debug\WebDriver.Support.xml
+D:\CSharpProjects\MailRuTest\MailRuTest\obj\Debug\YandexTest.csprojResolveAssemblyReference.cache
+D:\CSharpProjects\MailRuTest\MailRuTest\obj\Debug\MailRuTest.dll
+D:\CSharpProjects\MailRuTest\MailRuTest\obj\Debug\MailRuTest.pdb
